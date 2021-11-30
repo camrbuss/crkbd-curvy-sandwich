@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="162.750mm"
+   height="130.757mm"
+   viewBox="0 0 162.750 130.757"
+   version="1.1"
+   id="svg890"
+   sodipodi:docname="0.svg"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs894" />
+  <sodipodi:namedview
+     id="namedview892"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6632952"
+     inkscape:cx="307.52208"
+     inkscape:cy="247.09985"
+     inkscape:window-width="2546"
+     inkscape:window-height="1031"
+     inkscape:window-x="4"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg890" />
+  <title
+     id="title868">Exported SVG</title>
+  <style
+     id="style870"><![CDATA[
+polygon {
+shape-rendering:crispEdges;
+stroke-width:0.162750;
+}
+.s0 {
+stroke:#000000;
+stroke-width:0.083225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s1 {
+stroke:#000000;
+stroke-width:0.083225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s2 {
+stroke:#19b219;
+stroke-width:0.083225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s3 {
+stroke:#7f4c00;
+stroke-width:0.083225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s4 {
+stroke:#00cc00;
+stroke-width:0.083225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s5 {
+stroke:#000000;
+stroke-width:0.055483;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s6 {
+stroke:#ff19ff;
+stroke-width:0.055483;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s7 {
+stroke:#ff0000;
+stroke-width:0.083225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s8 {
+stroke:#ffff00;
+stroke-width:0.083225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s9 {
+stroke:#001919;
+stroke-width:0.055483;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sa {
+stroke:#006666;
+stroke-width:0.055483;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sb {
+stroke:#00ffff;
+stroke-width:0.166450;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sc {
+stroke:#ff0000;
+stroke-width:0.443867;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sd {
+stroke:#191919;
+stroke-width:0.055483;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.se {
+stroke:#000000;
+stroke-width:0.055483;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:0.832,0.832;
+fill:none;
+}
+.sf {
+stroke:#000000;
+stroke-width:0.166450;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+]]></style>
+  <path
+     d="M5.000 27.951 L5.000,88.317 A10.000,10.000 0 0,0 6.349,93.332 L20.130,117.105 A10.000,10.000 0 0,0 33.797,120.742 L45.600,113.899 A10.000,10.000 0 0,1 49.359,112.630 L82.730,108.403 A10.000,10.000 0 0,0 89.554,104.372 L94.336,97.811 A10.000,10.000 0 0,1 102.418,93.701 L152.750,93.701 A5.000,5.000 0 0,0 157.750,88.701 L157.750,27.951 A5.000,5.000 0 0,0 153.960,23.100 A300.000,300.000 0 0,0 8.790,23.100 A5.000,5.000 0 0,0 5.000,27.951 "
+     class="s5"
+     id="path872"
+     style="stroke:#ff0000" />
+  <path
+     d="M10.000 29.051 A1.100,1.100 0 0,1 8.900,27.951 A1.100,1.100 0 0,1 10.000,26.851 A1.100,1.100 0 0,1 11.100,27.951 A1.100,1.100 0 0,1 10.000,29.051 "
+     class="s5"
+     id="path874"
+     style="stroke:#0000ff" />
+  <path
+     d="M10.000 64.051 A1.100,1.100 0 0,1 8.900,62.951 A1.100,1.100 0 0,1 10.000,61.851 A1.100,1.100 0 0,1 11.100,62.951 A1.100,1.100 0 0,1 10.000,64.051 "
+     class="s5"
+     id="path876"
+     style="stroke:#0000ff" />
+  <path
+     d="M39.500 22.301 A1.100,1.100 0 0,1 38.400,21.201 A1.100,1.100 0 0,1 39.500,20.101 A1.100,1.100 0 0,1 40.600,21.201 A1.100,1.100 0 0,1 39.500,22.301 "
+     class="s5"
+     id="path878"
+     style="stroke:#0000ff" />
+  <path
+     d="M10.000 89.417 A1.100,1.100 0 0,1 8.900,88.317 A1.100,1.100 0 0,1 10.000,87.217 A1.100,1.100 0 0,1 11.100,88.317 A1.100,1.100 0 0,1 10.000,89.417 "
+     class="s5"
+     id="path880"
+     style="stroke:#0000ff" />
+  <path
+     d="M88.229 98.801 A1.100,1.100 0 0,1 87.129,97.701 A1.100,1.100 0 0,1 88.229,96.601 A1.100,1.100 0 0,1 89.329,97.701 A1.100,1.100 0 0,1 88.229,98.801 "
+     class="s5"
+     id="path882"
+     style="stroke:#0000ff" />
+  <path
+     d="M152.750 29.051 A1.100,1.100 0 0,1 151.650,27.951 A1.100,1.100 0 0,1 152.750,26.851 A1.100,1.100 0 0,1 153.850,27.951 A1.100,1.100 0 0,1 152.750,29.051 "
+     class="s5"
+     id="path884"
+     style="stroke:#0000ff" />
+  <path
+     d="M151.432 88.483 A1.100,1.100 0 0,1 150.332,87.383 A1.100,1.100 0 0,1 151.432,86.283 A1.100,1.100 0 0,1 152.532,87.383 A1.100,1.100 0 0,1 151.432,88.483 "
+     class="s5"
+     id="path886"
+     style="stroke:#0000ff" />
+  <path
+     d="M30.500 62.451 L17.900,62.451 L17.900,59.451 L30.500,59.451 A1.500,1.500 0 0,1 32.000,60.951 A1.500,1.500 0 0,1 30.500,62.451 "
+     class="s5"
+     id="path888"
+     style="stroke:#0000ff" />
+</svg>
